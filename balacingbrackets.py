@@ -13,6 +13,8 @@ aabd
 output:
 no
 """
+input1 = "mettl"
+input2 = "Coding"
 def check(l):
     d = {}
     for i in l:
