@@ -15,7 +15,7 @@ back = False
 up = False
 i = 0
 j = 0
-while not (i == j == 6):
+while not (i == j == n//2):
     if fore:
         if i != 0:
             if i < n and j + 3 < n:
