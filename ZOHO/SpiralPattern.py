@@ -59,7 +59,7 @@ for _ in range(int(input())):
                 print(mat[i][j], end=" ")
             print(" ")
 
-    mat = [[". " for i in range(n)] for j in range(n)]
+    mat = [["." for i in range(n)] for j in range(n)]
 
     if n % 2 != 0:
         fore = True
