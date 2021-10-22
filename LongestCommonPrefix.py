@@ -1,4 +1,6 @@
 """Longest common prefix"""
+
+
 def check():
     strings = list(input().split())
     ans = ""
