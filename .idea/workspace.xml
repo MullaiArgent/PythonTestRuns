@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9373276-7835-4856-afdf-804206ed5788" name="Default Changelist" comment="Code Challenge">
-      <change afterPath="$PROJECT_DIR$/smallestFactors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a9373276-7835-4856-afdf-804206ed5788" name="Default Changelist" comment="smallest factor">
+      <change afterPath="$PROJECT_DIR$/bothPalindromeandPrime.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +61,8 @@
       <recent name="$PROJECT_DIR$/ZOHO/SpiralPattern" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.kjhb">
-    <configuration name="LongestCommonPrefix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.bothPalindromeandPrime">
+    <configuration name="bothPalindromeandPrime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTestRuns" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,7 +74,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LongestCommonPrefix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bothPalindromeandPrime.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bothPalindromeandPrime" />
         <item itemvalue="Python.kjhb" />
         <item itemvalue="Python.jh" />
         <item itemvalue="Python.smallestFactors" />
         <item itemvalue="Python.evenoddsort" />
-        <item itemvalue="Python.LongestCommonPrefix" />
       </list>
     </recent_temporary>
   </component>
@@ -334,7 +333,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634655580008</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="smallest factor">
+      <created>1634917942070</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1634917942070</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -357,6 +363,7 @@
     <MESSAGE value="Spiral Pattern" />
     <MESSAGE value="Pattern" />
     <MESSAGE value="Code Challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="Code Challenge" />
+    <MESSAGE value="smallest factor" />
+    <option name="LAST_COMMIT_MESSAGE" value="smallest factor" />
   </component>
 </project>
