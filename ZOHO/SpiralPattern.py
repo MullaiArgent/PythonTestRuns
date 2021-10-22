@@ -47,7 +47,7 @@ output
 * * * * * * * * * * * * * * * * * * * * * * * * *
 
 explanation:
-First line is number of Test Cases
+First line is the number of Test Cases
 second line is the Iteration Value, if it is Even Print Square Patter else print Spiral Pattern
 """
 for _ in range(int(input())):
