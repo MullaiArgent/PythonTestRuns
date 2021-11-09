@@ -4,35 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9373276-7835-4856-afdf-804206ed5788" name="Default Changelist" comment="bothPalindromeandPrime.py">
-      <change afterPath="$PROJECT_DIR$/generic/sumOfGiven.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generic/testrun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gupshup/1.py" afterDir="false" />
+    <list default="true" id="a9373276-7835-4856-afdf-804206ed5788" name="Default Changelist" comment="gumshup practice code updated">
+      <change afterPath="$PROJECT_DIR$/determination/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/determination/twoSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gupshup/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gupshup/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0zeropermutation.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic/0zeropermutation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/ZOHO/testrun.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LongestCommonPrefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic/LongestCommonPrefix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProbabilityOfPalindromeDice.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic/ProbabilityOfPalindromeDice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/avgClosest.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic/avgClosest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/balacingbrackets.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic/balacingbrackets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bothPalindromeandPrime.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic/bothPalindromeandPrime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/btideAndGroom.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic/btideAndGroom.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coprime.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic/coprime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cyclicRotation.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic/cyclicRotation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/electrostatic.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic/electrostatic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minAndMaxPrime.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic/minAndMaxPrime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nearestPrime.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic/nearestPrime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/noOfNonRepeatedNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic/noOfNonRepeatedNumbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/occuranceAndLength.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic/occuranceAndLength.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oddpattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic/oddpattern.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sedfgn.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic/sedfgn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/smallestFactors.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic/smallestFactors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snakePattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic/snakePattern.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic/sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sumOfGiven.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic/4Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sumOfLeastProducts.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic/sumOfLeastProducts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sumofReversedNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic/sumofReversedNumbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/generic/testFile.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +66,28 @@
       <recent name="$PROJECT_DIR$/ZOHO/SpiralPattern" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.charsToString">
+  <component name="RunManager" selected="Python.2">
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonTestRuns" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gupshup" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gupshup/2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="bothPalindromeandPrime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTestRuns" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -218,8 +216,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2" />
         <item itemvalue="Python.charsToString" />
-        <item itemvalue="Python.testrun (1)" />
         <item itemvalue="Python.testrun" />
         <item itemvalue="Python.bothPalindromeandPrime" />
         <item itemvalue="Python.kjhb" />
@@ -382,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634918901825</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="gumshup practice code updated">
+      <created>1636449692810</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1636449692810</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -407,6 +412,7 @@
     <MESSAGE value="Code Challenge" />
     <MESSAGE value="smallest factor" />
     <MESSAGE value="bothPalindromeandPrime.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="bothPalindromeandPrime.py" />
+    <MESSAGE value="gumshup practice code updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="gumshup practice code updated" />
   </component>
 </project>
