@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9373276-7835-4856-afdf-804206ed5788" name="Default Changelist" comment="GupShup Main Code">
-      <change afterPath="$PROJECT_DIR$/Haptagon/containsOnly1n3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Haptagon/factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Haptagon/lcm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Haptagon/primesInTheRange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Haptagon/removeDuplicates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Haptagon/sumOfDigits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ZOHO/possibleSubArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Haptagon/hight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Haptagon/reverseTheWords.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,8 +64,8 @@
       <recent name="$PROJECT_DIR$/ZOHO/SpiralPattern" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.removeDuplicates">
-    <configuration name="containsOnly1n3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.hight">
+    <configuration name="hight" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTestRuns" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,28 +77,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Haptagon/containsOnly1n3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonTestRuns" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Haptagon" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Haptagon/factorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Haptagon/hight.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,6 +149,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="reverseTheWords" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonTestRuns" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Haptagon" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Haptagon/reverseTheWords.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="snakePattern" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PythonTestRuns" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hight" />
+        <item itemvalue="Python.reverseTheWords" />
         <item itemvalue="Python.removeDuplicates" />
         <item itemvalue="Python.primesInTheRange" />
         <item itemvalue="Python.lcm" />
-        <item itemvalue="Python.factorial" />
-        <item itemvalue="Python.containsOnly1n3" />
       </list>
     </recent_temporary>
   </component>
