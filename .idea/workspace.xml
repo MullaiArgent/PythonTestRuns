@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9373276-7835-4856-afdf-804206ed5788" name="Default Changelist" comment="GupShup Main Code">
-      <change afterPath="$PROJECT_DIR$/HCL/maxDeletions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HCL/maxStreak.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HCL/reverseaLinkedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HCL/temp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ugam/NumPyramid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ugam/noofids.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ugam/temp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonTestRuns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonTestRuns.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a9373276-7835-4856-afdf-804206ed5788" name="Default Changelist" comment="ugam">
+      <change afterPath="$PROJECT_DIR$/Ugam/sumofdivisors.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +73,7 @@
       <recent name="$PROJECT_DIR$/ZOHO/SpiralPattern" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.NumPyramid">
+  <component name="RunManager" selected="Python.sumofdivisors">
     <configuration name="NumPyramid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTestRuns" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,27 +137,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="maxDeletions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonTestRuns" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Capgimini" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\mulla\PycharmProjects\PythonTestRuns\Capgimini\maxDeletions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="maxStreak" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTestRuns" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,6 +150,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HCL/maxStreak.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sumofdivisors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonTestRuns" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ugam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ugam/sumofdivisors.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,18 +203,18 @@
     <list>
       <item itemvalue="Python.Python" />
       <item itemvalue="Python.maxDeletions (1)" />
-      <item itemvalue="Python.maxDeletions" />
       <item itemvalue="Python.temp" />
       <item itemvalue="Python.maxStreak" />
       <item itemvalue="Python.NumPyramid" />
+      <item itemvalue="Python.sumofdivisors" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sumofdivisors" />
         <item itemvalue="Python.NumPyramid" />
         <item itemvalue="Python.maxStreak" />
         <item itemvalue="Python.temp" />
         <item itemvalue="Python.maxDeletions (1)" />
-        <item itemvalue="Python.maxDeletions" />
       </list>
     </recent_temporary>
   </component>
@@ -404,7 +395,21 @@
       <option name="project" value="LOCAL" />
       <updated>1636537614195</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="ugam">
+      <created>1641833693880</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1641833693880</updated>
+    </task>
+    <task id="LOCAL-00026" summary="ugam">
+      <created>1641833752224</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1641833752224</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -431,6 +436,7 @@
     <MESSAGE value="gumshup practice code updated" />
     <MESSAGE value="two sum" />
     <MESSAGE value="GupShup Main Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="GupShup Main Code" />
+    <MESSAGE value="ugam" />
+    <option name="LAST_COMMIT_MESSAGE" value="ugam" />
   </component>
 </project>
