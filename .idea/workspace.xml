@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9373276-7835-4856-afdf-804206ed5788" name="Default Changelist" comment="ugam">
-      <change afterPath="$PROJECT_DIR$/Ugam/sumofdivisors.py" afterDir="false" />
+    <list default="true" id="a9373276-7835-4856-afdf-804206ed5788" name="Default Changelist" comment="Fix">
+      <change afterPath="$PROJECT_DIR$/Ugam/sorttwolist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ugam/NumPyramid.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ugam/NumPyramid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ugam/temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ugam/temp.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,12 +71,13 @@
       <recent name="C:\Users\MULLAI RAJAN\PycharmProjects\PythonTestRuns" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mulla\PycharmProjects\PythonTestRuns" />
       <recent name="$PROJECT_DIR$/generic" />
       <recent name="$PROJECT_DIR$/ZOHO" />
       <recent name="$PROJECT_DIR$/ZOHO/SpiralPattern" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sumofdivisors">
+  <component name="RunManager" selected="Python.NumPyramid">
     <configuration name="NumPyramid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTestRuns" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,27 +112,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="maxDeletions (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonTestRuns" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HCL" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HCL/maxDeletions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,6 +162,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="temp (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonTestRuns" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ugam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ugam/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTestRuns" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -201,20 +205,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Python" />
-      <item itemvalue="Python.maxDeletions (1)" />
-      <item itemvalue="Python.temp" />
-      <item itemvalue="Python.maxStreak" />
       <item itemvalue="Python.NumPyramid" />
+      <item itemvalue="Python.Python" />
+      <item itemvalue="Python.maxStreak" />
       <item itemvalue="Python.sumofdivisors" />
+      <item itemvalue="Python.temp (1)" />
+      <item itemvalue="Python.temp" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sumofdivisors" />
         <item itemvalue="Python.NumPyramid" />
+        <item itemvalue="Python.temp (1)" />
+        <item itemvalue="Python.sumofdivisors" />
         <item itemvalue="Python.maxStreak" />
         <item itemvalue="Python.temp" />
-        <item itemvalue="Python.maxDeletions (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -409,7 +413,21 @@
       <option name="project" value="LOCAL" />
       <updated>1641833752224</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="sumofdiv">
+      <created>1641834422405</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1641834422405</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Fix">
+      <created>1641834624586</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1641834624586</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -437,6 +455,8 @@
     <MESSAGE value="two sum" />
     <MESSAGE value="GupShup Main Code" />
     <MESSAGE value="ugam" />
-    <option name="LAST_COMMIT_MESSAGE" value="ugam" />
+    <MESSAGE value="sumofdiv" />
+    <MESSAGE value="Fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix" />
   </component>
 </project>
