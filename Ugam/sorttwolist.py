@@ -1,9 +1,7 @@
-l1 =int(input())
-l2 = int(input())
-a1 = list(map(int, input().split()))
-a2 = list(map(int, input().split()))
-a = a1+a2
-a.sort()
-a.reverse()
-for i in a:
-    print(i)
+n = 5
+sum = 0
+z = 0
+for i in range(6):
+    sum = i * i
+    z += sum
+print(sum  % n)
